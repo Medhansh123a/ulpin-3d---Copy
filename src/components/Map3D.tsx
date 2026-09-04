@@ -443,7 +443,7 @@ export default function Map3D() {
           <div className="pointer-events-auto flex items-center gap-2 rounded-lg bg-white/85 px-3 py-2 shadow ring-1 ring-slate-200 backdrop-blur dark:bg-slate-900/85 dark:ring-slate-700">
             <Compass size={15} className="text-slate-400" />
             <div className="flex flex-col">
-              <span className="text-[10px] font-semibold text-slate-500 dark:text-slate-400">Simulated city · Kaveripuram</span>
+              <span className="text-[10px] font-semibold text-slate-500 dark:text-slate-400">Simulated city · Rohini</span>
               <span className="text-[10px] text-slate-400 dark:text-slate-500">Grid 34×34 · cell 25 m · 0.72 km²</span>
             </div>
             <Crosshair size={14} className="ml-2 text-cyan-500" />
