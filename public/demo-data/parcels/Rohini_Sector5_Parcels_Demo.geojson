@@ -1,0 +1,456 @@
+{
+  "type": "FeatureCollection",
+  "name": "Rohini Sector 5 Demo Parcels",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-001",
+        "address": "Pocket 5, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 640,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.115,
+              28.707
+            ],
+            [
+              77.1158,
+              28.707
+            ],
+            [
+              77.1158,
+              28.707800000000002
+            ],
+            [
+              77.115,
+              28.707800000000002
+            ],
+            [
+              77.115,
+              28.707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-002",
+        "address": "Pocket 5, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 660,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.116,
+              28.707
+            ],
+            [
+              77.1168,
+              28.707
+            ],
+            [
+              77.1168,
+              28.707800000000002
+            ],
+            [
+              77.116,
+              28.707800000000002
+            ],
+            [
+              77.116,
+              28.707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-003",
+        "address": "Pocket 5, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 680,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.11699999999999,
+              28.707
+            ],
+            [
+              77.11779999999999,
+              28.707
+            ],
+            [
+              77.11779999999999,
+              28.707800000000002
+            ],
+            [
+              77.11699999999999,
+              28.707800000000002
+            ],
+            [
+              77.11699999999999,
+              28.707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-004",
+        "address": "Pocket 5, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 700,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.118,
+              28.707
+            ],
+            [
+              77.1188,
+              28.707
+            ],
+            [
+              77.1188,
+              28.707800000000002
+            ],
+            [
+              77.118,
+              28.707800000000002
+            ],
+            [
+              77.118,
+              28.707
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-005",
+        "address": "Pocket 6, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 720,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.115,
+              28.708000000000002
+            ],
+            [
+              77.1158,
+              28.708000000000002
+            ],
+            [
+              77.1158,
+              28.708800000000004
+            ],
+            [
+              77.115,
+              28.708800000000004
+            ],
+            [
+              77.115,
+              28.708000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-006",
+        "address": "Pocket 6, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 740,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.116,
+              28.708000000000002
+            ],
+            [
+              77.1168,
+              28.708000000000002
+            ],
+            [
+              77.1168,
+              28.708800000000004
+            ],
+            [
+              77.116,
+              28.708800000000004
+            ],
+            [
+              77.116,
+              28.708000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-007",
+        "address": "Pocket 6, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 760,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.11699999999999,
+              28.708000000000002
+            ],
+            [
+              77.11779999999999,
+              28.708000000000002
+            ],
+            [
+              77.11779999999999,
+              28.708800000000004
+            ],
+            [
+              77.11699999999999,
+              28.708800000000004
+            ],
+            [
+              77.11699999999999,
+              28.708000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-008",
+        "address": "Pocket 6, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 780,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.118,
+              28.708000000000002
+            ],
+            [
+              77.1188,
+              28.708000000000002
+            ],
+            [
+              77.1188,
+              28.708800000000004
+            ],
+            [
+              77.118,
+              28.708800000000004
+            ],
+            [
+              77.118,
+              28.708000000000002
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-009",
+        "address": "Pocket 7, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 800,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.115,
+              28.709
+            ],
+            [
+              77.1158,
+              28.709
+            ],
+            [
+              77.1158,
+              28.7098
+            ],
+            [
+              77.115,
+              28.7098
+            ],
+            [
+              77.115,
+              28.709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-010",
+        "address": "Pocket 7, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 820,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.116,
+              28.709
+            ],
+            [
+              77.1168,
+              28.709
+            ],
+            [
+              77.1168,
+              28.7098
+            ],
+            [
+              77.116,
+              28.7098
+            ],
+            [
+              77.116,
+              28.709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-011",
+        "address": "Pocket 7, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 840,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.11699999999999,
+              28.709
+            ],
+            [
+              77.11779999999999,
+              28.709
+            ],
+            [
+              77.11779999999999,
+              28.7098
+            ],
+            [
+              77.11699999999999,
+              28.7098
+            ],
+            [
+              77.11699999999999,
+              28.709
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "parcel_id": "R5-P-012",
+        "address": "Pocket 7, Sector 5, Rohini, New Delhi, Delhi 110085",
+        "zone": "R5",
+        "area_m2": 860,
+        "status": "SIMULATED DEMO"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              77.118,
+              28.709
+            ],
+            [
+              77.1188,
+              28.709
+            ],
+            [
+              77.1188,
+              28.7098
+            ],
+            [
+              77.118,
+              28.7098
+            ],
+            [
+              77.118,
+              28.709
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
