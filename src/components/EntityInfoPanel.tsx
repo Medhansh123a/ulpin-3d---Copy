@@ -187,7 +187,7 @@ export default function EntityInfoPanel({ entity, compact = false }: { entity: E
   );
 }
 
-function selectAndGo(entity: EntityRef, nav: NavigationFunction){
+function selectAndGo(entity: EntityRef, nav: NavigateFunction){
   // Preserve the current selection so the dashboard can focus the same entity.
   // The dashboard owns the 3D camera state; this action only changes the route.
   nav('/dashboard', { state: { entity } });

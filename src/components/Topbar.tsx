@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate ,type NavigationFunction} from 'react-router-dom';
+import { useNavigate ,type NavigateFunction} from 'react-router-dom';
 import { Fingerprint, Menu, Moon, Search, Sun } from 'lucide-react';
 import { useApp } from '../context/AppContext';
 import { findByUlpin, searchEntities } from '../data/mockData';
