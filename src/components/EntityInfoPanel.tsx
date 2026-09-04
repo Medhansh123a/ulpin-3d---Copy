@@ -1,4 +1,4 @@
-import { useNavigate, type NavigateFunction} from 'react-router-dom';
+import { useNavigate, type NavigationFunction} from 'react-router-dom';
 import { Building2, Fingerprint, Layers3, MapPin, Maximize2 } from 'lucide-react';
 import type { Building, EntityRef, Parcel, Unit, UtilityLine, UtilityNode } from '../types';
 import { buildings, coordsOf, getBuilding, getParcel, getUnit, utilityLines, utilityNodes } from '../data/mockData';
