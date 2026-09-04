@@ -1,4 +1,4 @@
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, type NavigateFunction} from 'react-router-dom';
 import { Building2, Fingerprint, Layers3, MapPin, Maximize2 } from 'lucide-react';
 import type { Building, EntityRef, Parcel, Unit, UtilityLine, UtilityNode } from '../types';
 import { buildings, coordsOf, getBuilding, getParcel, getUnit, utilityLines, utilityNodes } from '../data/mockData';
@@ -187,7 +187,7 @@ export default function EntityInfoPanel({ entity, compact = false }: { entity: E
   );
 }
 
-function selectAndGo(entity: EntityRef, nav: (p: string) => void) {
+function selectAndGo(entity: EntityRef, nav: NavigationFunction){
   // Preserve the current selection so the dashboard can focus the same entity.
   // The dashboard owns the 3D camera state; this action only changes the route.
   nav('/dashboard', { state: { entity } });
